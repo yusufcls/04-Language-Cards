@@ -1,6 +1,6 @@
 import reactLogo from '../../assets/react.svg';
 import React from 'react'
-
+import './Header.css'
 const Header = () => {
   return (
     <div className='logo-container'>
