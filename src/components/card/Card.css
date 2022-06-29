@@ -8,7 +8,24 @@
     grid-template-rows: 10% 90%;
     grid-template-areas: "top" "bottom";
     /* overflow: hidden; */
+    background-image: linear-gradient(50deg, 
+    #f48b29 50%, 
+    #53c1de 50%, 
+    #2252f0 60.55%,
+    #f48b29 0.55%, 
+     #ef6024 100% )
 
+}
+
+.bars {
+    /* height: 41rem;
+    width: 5rem;
+    background-color: #53c1de;
+    position: relative;
+    transform: rotate(-45deg);
+    top: -40rem;
+    left: 10rem; */
+    
 }
 
 .language-title {
